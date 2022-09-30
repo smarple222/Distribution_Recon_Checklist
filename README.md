@@ -1,6 +1,6 @@
 # FD2M Recon
-❗ means results don't match
-❓ means data missing / question could not be answered
+❗ means results don't match<br>
+❓ means data missing / question could not be answered<br>
 ✔️ means check was completed
 
 ### Signatures
