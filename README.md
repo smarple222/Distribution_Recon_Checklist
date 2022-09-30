@@ -41,7 +41,7 @@ Check 12 | BB Out-of-scope 4610 by letter | = | Scope Summary | sum of the break
 
 ---
 
-### QDD to MAJCOM
+### QDD to MAJCOM ( ⭐ Have not gone through this one yet ⭐)
 - [ ] _Scope Summary_ Ending balance of 4510 + 4610 = _Distribution to MAJCOM_ **Adjusted QDD**
     - The total **Adjusted QDD** column should equal the Ending Balance sum of 4510 and 4610 in-scope amounts on the Scope Summary tab, as well as the same two totals on the Distribution to MAJCOM tab.  (Ending Balance Totals only)
 QDD still being worked by SAF/FM, so DFAS did not have these numbers to include in recon
