@@ -57,7 +57,7 @@ QDD still being worked by SAF/FM, so DFAS did not have these numbers to include 
 ### Distribution to MAJCOM
 Checklist| item| sign | file / tab | item | Notes
 -|-|-|-|-|-
-Check 1 | Beginning Balance 4510 Total | = | BB (prior quarter).xlsx / BB (prior quarter) | compute_0007 total filtered by 4510
+Check 1 | Beginning Balance 4510 Total | = | BB Pivot | 4510 total + 4560 total
 Check 2 | Beginning Balance 4610 Total | = | BB (prior quarter).xlsx / BB (prior quarter) | compute_0007 total filtered by 4610
 Check 3 | Ending Balance 4510 Total | = | EB (current quarter).xlsx / EB (current quarter) | compute_0007 total filtered by 4510 | current year only
 Check 4 | Ending Balance 4610 Total | = | EB (current quarter).xlsx / EB (current quarter) | compute_0007 total filtered by 4610 | current year only
