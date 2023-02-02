@@ -58,9 +58,9 @@ QDD still being worked by SAF/FM, so DFAS did not have these numbers to include 
 Checklist| item| sign | file / tab | item | Notes
 -|-|-|-|-|-
 Check 1 | Beginning Balance 4510 Total | = | BB Pivot | 4510 total + 4560 total
-Check 2 | Beginning Balance 4610 Total | = | BB Pivot | compute_0007 total filtered by 4610
-Check 3 | Ending Balance 4510 Total | = | EB Pivot | compute_0007 total filtered by 4510 | current year only
-Check 4 | Ending Balance 4610 Total | = | EB Pivot | compute_0007 total filtered by 4610 | current year only
+Check 2 | Beginning Balance 4610 Total | = | BB Pivot | 4610 total
+Check 3 | Ending Balance 4510 Total | = | EB Pivot | 4510 total + 4560 total | current year only
+Check 4 | Ending Balance 4610 Total | = | EB Pivot | 4610 total | current year only
 Check 5 | AFM Fund Availability Total | = | AFM Apportionment Recal | Difference between Availability & PAT 13 & 33 
 Check 6 | AFM Total | = | AFM Apportionment Recal | AFM (PATs 13 & 33) Total
 Check 7 | Net Variance Total | = | DEAMS Funding Comparison.xlsx / DEAMS Funding Comparison | Sum Total | ❓ 
