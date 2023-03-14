@@ -96,7 +96,7 @@ Check 3 | Rescissions (PAT 15) Total | = | AF_FUND_RECEIPT_RECON_APPR_RESC | AFM
 
 Checklist | item |sign| file / tab | item | Notes
 -|-|-|-|-|-
-Check 1 | 4610 Ending Balance Total | = | Q3 FY22--FINAL.xlsx | Total Available Ending Balance 
+Check 1 | 4610 Ending Balance Total | = | Q3 FY22--FINAL.xlsx | 4610 Ending Balance Total 
 Check 2 | 4610 AFM Total | = | Q3 FY22--FINAL.xlsx | 4610 AFM Total at Base Level
 Check 3 | 4610 Recalculated Distribution Total | = | Q3 FY22--FINAL.xlsx | Total Available Recalculated Distribution
 Check 4 | 4610 AFM to GAFSR Variance Total | = | Q3 FY22--FINAL.xlsx | Total Available AFM to GAFSR Variance
