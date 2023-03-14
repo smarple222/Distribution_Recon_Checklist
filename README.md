@@ -63,8 +63,8 @@ Check 3 | Ending Balance 4510 Total | = | EB Pivot | 4510 total + 4560 total | c
 Check 4 | Ending Balance 4610 Total | = | EB Pivot | 4610 total | current year only
 Check 5 | AFM Fund Availability Total | = | AFM Apportionment Recal | Difference between Availability & PAT 13 & 33 
 Check 6 | AFM Total | = | AFM Apportionment Recal | AFM (PATs 13 & 33) Total
-Check 7 | Net Variance Total | = | DEAMS Funding Comparison.xlsx / DEAMS Funding Comparison | Sum Total | ❓ 
-Check 8 | sum of DEAMS by GLAC | = | DEAMS Funding Comparison.xlsx / Comparison |  sum of Total by treas_bs 
+Check 7 | Net Variance Total | = | OBIEE DEAMS Feed / DEAMS Funding Comparison | Sum Total | ❓ 
+Check 8 | sum of DEAMS by GLAC | = | OBIEE DEAMS Feed / DEAMS Funding Comparison |  sum of Total by treas_bs 
 
 - [ ] Check 1
 - [ ] Check 2
