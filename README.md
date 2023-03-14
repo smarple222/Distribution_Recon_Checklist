@@ -96,10 +96,10 @@ Check 3 | Rescissions (PAT 15) Total | = | AF_FUND_RECEIPT_RECON_APPR_RESC | AFM
 
 Checklist | item |sign| file / tab | item | Notes
 -|-|-|-|-|-
-Check 1 | 4610 Ending Balance Total | = | Q3 FY22--FINAL.xlsx | 4610 Ending Balance Total 
-Check 2 | 4610 AFM Total | = | Q3 FY22--FINAL.xlsx | 4610 AFM Total at Base Level | AFM Current Total
-Check 3 | 4610 Recalculated Distribution Total | = | Q3 FY22--FINAL.xlsx | Total Available Recalculated Distribution
-Check 4 | 4610 AFM to GAFSR Variance Total | = | Q3 FY22--FINAL.xlsx | Total Available AFM to GAFSR Variance
+Check 1 | 4610 Ending Balance Total | = | FD2B Recon | 4610 Ending Balance Total 
+Check 2 | 4610 AFM Total | = | FD2B Recon | 4610 AFM Total at Base Level | AFM Current Total
+Check 3 | 4610 Recalculated Distribution Total | = | FD2B Recon | Total Available Recalculated Distribution
+Check 4 | 4610 AFM to GAFSR Variance Total | = | FD2B Recon | Total Available AFM to GAFSR Variance
 
 - [ ] Check 1
 - [ ] Check 2
@@ -110,7 +110,7 @@ Check 4 | 4610 AFM to GAFSR Variance Total | = | Q3 FY22--FINAL.xlsx | Total Ava
 
 ## FD2B Recon Vs. Quarterly MAJCOM Recons
 
-### FD2B Recon ( Q3 FY22--FINAL.xlsx )
+### FD2B Recon ( FD2B Recon )
 Checklist | item |sign| file / tab | item | Notes
 -|-|-|-|-|-
 Check 1 | AVAILABLE_FOR_DIST From Prior Quarter(s)<br> (or sum total, if dealing with multiple quarters) | = | Prior quarter MAJCOM Recon | Available_for_Dist Total<br> or sum of totals if dealing with multiple quarters | current only
